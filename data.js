@@ -5,7 +5,7 @@
 window.SITE = {
   name: "Mar Vincent P. Mercado",
   shortName: "mar",
-  photo: "profile.jpeg",            // e.g. "assets/profile.jpg"
+  photo: "profile.jpg",            // e.g. "assets/profile.jpg"
 
   // Contact (leave "" until ready)
   email: "",            // e.g. "you@example.com"
