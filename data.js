@@ -4,8 +4,8 @@
    ========================================================== */
 window.SITE = {
   name: "Mar Vincent P. Mercado",
-  shortName: "mvpm",
-  photo: "",            // e.g. "assets/profile.jpg"
+  shortName: "mar",
+  photo: "profile.jpeg",            // e.g. "assets/profile.jpg"
 
   // Contact (leave "" until ready)
   email: "",            // e.g. "you@example.com"
